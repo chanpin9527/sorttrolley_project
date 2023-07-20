@@ -1,0 +1,9 @@
+from building import *
+
+cwd     = GetCurrentDir()
+src     = Glob('*.c') + Glob('*.cpp')
+CPPPATH = [cwd + '/../inc',cwd + '/../port']
+
+group = DefineGroup('Data_manager', src, depend = ['PKG_USING_DATA_MANAGER'], CPPPATH = CPPPATH)
+
+Return('group')

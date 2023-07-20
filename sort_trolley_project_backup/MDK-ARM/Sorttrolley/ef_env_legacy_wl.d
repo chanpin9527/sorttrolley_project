@@ -1,0 +1,9 @@
+sorttrolley\ef_env_legacy_wl.o: ..\EasyFlash\src\ef_env_legacy_wl.c
+sorttrolley\ef_env_legacy_wl.o: ../EasyFlash/inc/easyflash.h
+sorttrolley\ef_env_legacy_wl.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+sorttrolley\ef_env_legacy_wl.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+sorttrolley\ef_env_legacy_wl.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+sorttrolley\ef_env_legacy_wl.o: ../EasyFlash/inc/ef_cfg.h
+sorttrolley\ef_env_legacy_wl.o: ../EasyFlash/inc/ef_def.h
+sorttrolley\ef_env_legacy_wl.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+sorttrolley\ef_env_legacy_wl.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h

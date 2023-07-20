@@ -1,0 +1,9 @@
+sorttrolley\sfud_sfdp.o: ..\Sfud\src\sfud_sfdp.c
+sorttrolley\sfud_sfdp.o: ..\Sfud\src\../inc/sfud.h
+sorttrolley\sfud_sfdp.o: ..\Sfud\src\../inc/sfud_def.h
+sorttrolley\sfud_sfdp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+sorttrolley\sfud_sfdp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+sorttrolley\sfud_sfdp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+sorttrolley\sfud_sfdp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+sorttrolley\sfud_sfdp.o: ../Sfud/inc/sfud_cfg.h
+sorttrolley\sfud_sfdp.o: ..\Sfud\src\../inc/sfud_flash_def.h
